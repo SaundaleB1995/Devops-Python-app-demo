@@ -1,7 +1,7 @@
 
 print("Hello DevOps !")
 print("My First DevOps Project")
-//==================================
+
 import platform
 from datetime import datetime
 
